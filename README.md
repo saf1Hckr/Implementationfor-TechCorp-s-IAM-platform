@@ -53,4 +53,4 @@ Key performance indicators include:
 - Allocate resources and budget
 - Schedule kick-off meeting for Phase 1
 
-For more detailed information, please refer to the full presentation in this repository.
+For more detailed information, please refer to the full presentation in this repository. 
